@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+.git dir created. So I can use the fucking vcs.
